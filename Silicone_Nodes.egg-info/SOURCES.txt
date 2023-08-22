@@ -1,0 +1,15 @@
+setup.py
+Silicone_Nodes.egg-info/PKG-INFO
+Silicone_Nodes.egg-info/SOURCES.txt
+Silicone_Nodes.egg-info/dependency_links.txt
+Silicone_Nodes.egg-info/top_level.txt
+modules/__init__.py
+modules/adm_patch.py
+modules/core.py
+modules/cv2win32.py
+modules/default_pipeline.py
+modules/launch_util.py
+modules/model_loader.py
+modules/path.py
+modules/samplers_advanced.py
+modules/sdxl_styles.py
